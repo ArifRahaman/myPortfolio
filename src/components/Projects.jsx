@@ -10,8 +10,8 @@ const Projects = () => {
       title: 'PDF and POST Management',
       description: 'This project is a comprehensive platform designed to enhance user interaction and content management. Users can seamlessly manage their PDF documents by easily naming, deleting, and reading files. The platform also allows users to create rich posts, incorporating text, images, and PDF attachments, fostering engagement through likes and comments. Additionally, a user-friendly dashboard enables account customization and profile image uploads, contributing to a 30% increase in user satisfaction.',
       image: img,
-      frontendLink: 'https://frontend-pdfchat-2.onrender.com/', 
-      backendLink: 'https://backend-pdfchatarif.onrender.com/',   
+      frontendLink: 'https://frontendpartarif.onrender.com/', 
+      backendLink: 'https://pdfchatarif.onrender.com/',   
       githubLink: 'https://github.com/ArifRahaman/frontend_pdfchat'    
     },
     {
