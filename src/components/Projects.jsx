@@ -10,16 +10,16 @@ const Projects = () => {
       title: 'PDF and POST Management',
       description: 'This project is a comprehensive platform designed to enhance user interaction and content management. Users can seamlessly manage their PDF documents by easily naming, deleting, and reading files. The platform also allows users to create rich posts, incorporating text, images, and PDF attachments, fostering engagement through likes and comments. Additionally, a user-friendly dashboard enables account customization and profile image uploads, contributing to a 30% increase in user satisfaction.',
       image: img,
-      frontendLink: 'https://frontendpartarif.onrender.com/', 
-      backendLink: 'https://pdfchatarif.onrender.com/',   
+      Live: 'https://frontendpartarif.onrender.com/', 
+      // backendLink: 'https://pdfchatarif.onrender.com/',   
       githubLink: 'https://github.com/ArifRahaman/frontend_pdfchat'    
     },
     {
       title: 'HealthCare-DOCO',
       description: 'This project focuses on improving patient-doctor communication through a robust platform that allows users to book appointments, engage in video consultations, and chat with AI for quick support. A user-friendly patient portal facilitates seamless appointment scheduling with preferred physicians, significantly reducing no-show rates by 40% and increasing bookings by 25%. The platform includes separate dashboards tailored to the needs of both patients and doctors, enhancing their user experience. Additionally, it offers a subscription-based plan for patients to access premium membership features, providing added value and convenience.',
       image: Doco,
-      frontendLink: 'https://frontendc.onrender.com/',
-      backendLink: 'https://backend-uq9j.onrender.com/',
+      Live: 'https://frontendc.onrender.com/',
+      // backendLink: 'https://backend-uq9j.onrender.com/',
       githubLink: 'https://github.com/ArifRahaman/JU-Srijan-Healthcare-website'
     },
     {
