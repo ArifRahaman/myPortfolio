@@ -26,7 +26,7 @@ const Projects = () => {
       title: 'The Snake Game',
       description: 'This project is a simple snake game where users control a snake\'s movement within a confined space, trying to avoid collisions with the walls. The game offers various difficulty levels and keeps track of the user\'s current and highest scores, providing a competitive and engaging experience. The JavaScript logic ensures smooth gameplay, making the game both fun and challenging.',
       image: snake,
-      frontendLink: 'https://arifrahaman.github.io/The-SNAKE-GAME/',
+      Live: 'https://arifrahaman.github.io/The-SNAKE-GAME/',
       // backendLink: 'https://backend-project3.com',
       githubLink: 'https://github.com/ArifRahaman/The-SNAKE-GAME'
     }
@@ -44,9 +44,9 @@ const Projects = () => {
             <div className="flex justify-between items-center">
               <div>
                 {/* Conditionally render the frontend link */}
-                {project.frontendLink && (
+                {project.Live && (
                   <a
-                    href={project.frontendLink}
+                    href={project.Live}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-blue-500 hover:underline block"
