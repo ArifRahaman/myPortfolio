@@ -51,7 +51,7 @@ const Projects = () => {
                     rel="noopener noreferrer"
                     className="text-blue-500 hover:underline block"
                   >
-                    Frontend Link
+                   Live
                   </a>
                 )}
                 {/* Conditionally render the backend link if available */}
