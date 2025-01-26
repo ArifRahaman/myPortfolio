@@ -24,7 +24,6 @@ const About = () => {
             />
           </p>
         </div>
-
         <div className="lg:w-1/2 flex justify-center">
         <img
             src={me}
@@ -33,6 +32,7 @@ const About = () => {
           />
         </div>
       </div>
+      
 
       <h2 className="text-4xl font-bold mt-12 mb-4 text-center text-white">Profiles</h2>
       <p className="text-gray-300 text-center mb-6">You can find me on:</p>
@@ -40,9 +40,6 @@ const About = () => {
       <div className="flex justify-center space-x-8">
         <a href="https://github.com/Arifrahaman" className="text-blue-500 text-4xl hover:text-white transition-colors duration-200 ease-in-out" aria-label="GitHub">
           <FaGithub />
-        </a>
-        <a href="https://www.linkedin.com/in/arif-rahaman-01b884255/" className="text-blue-500 text-4xl hover:text-white transition-colors duration-200 ease-in-out" aria-label="LinkedIn">
-          <FaLinkedin />
         </a>
         <a href="https://leetcode.com/arifrahaman" className="text-yellow-500 text-4xl hover:text-white transition-colors duration-200 ease-in-out" aria-label="LeetCode">
           <SiLeetcode />
